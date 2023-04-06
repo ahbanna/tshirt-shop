@@ -1,0 +1,8 @@
+.single-tshirt {
+  border: 2px solid #e90df2;
+  border-radius: 10px;
+  padding: 15px;
+}
+.single-tshirt img {
+  height: 350px;
+}
